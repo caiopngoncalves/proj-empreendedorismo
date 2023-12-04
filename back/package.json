@@ -1,0 +1,25 @@
+{
+  "name": "proj-empreendedorismo",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao projeto de e-commerce de livros da disciplina de empreendorismo - UESC 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiopngoncalves/proj-empreendedorismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiopngoncalves/proj-empreendedorismo/issues"
+  },
+  "homepage": "https://github.com/caiopngoncalves/proj-empreendedorismo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
